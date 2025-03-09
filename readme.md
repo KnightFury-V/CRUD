@@ -22,3 +22,4 @@
 
 ## Security
 - Basic input validation is implemented to ensure correct email format and required fields.
+- htmlspecialchars() function is implemented to sanize the user input to secure form Cross-site scripting vulnerability.
