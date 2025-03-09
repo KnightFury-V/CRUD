@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 1. **Create the Database:**
-   - Execute the SQL commands in the `db.sql` file to create the database and table.
+   - Execute the SQL commands in the `clients.sql` file to create the database and table.
 
 2. **Database Credentials:**
    - Update the database credentials in `db.php` with your database username and password.
